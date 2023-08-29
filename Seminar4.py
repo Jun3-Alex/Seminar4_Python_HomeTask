@@ -51,7 +51,7 @@ print(result_str)
 # shells on the sea shore I'm sure that the shells are sea
 # shore shells
 # Output: 13
-
+'''
 my_str = "She sells sea shells on the sea shore \
     The shells that she sells are sea shells I'm sure.So if she sells sea shells on the sea shore \
     I'm sure that the shells are sea"
@@ -61,7 +61,7 @@ print(my_list)
 my_mn = set(my_list)
 print(my_mn)
 print(len(my_mn))
-   
+'''
 
 # Ваня и Петя поспорили, кто быстрее решит
 # следующую задачу: “Задана последовательность
